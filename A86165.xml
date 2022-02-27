@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A machavillian plot, or, A caution for England, presented in a time when princes were so pious and iudges durst bee valiant to declare against vnhonest slaverie.</title>
+            <author>Heath, Robert, Sir, 1575-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86165</idno>
+            <idno type="STC">Wing H1339</idno>
+            <idno type="STC">Thomason E112_5</idno>
+            <idno type="EEBO-CITATION">50290045</idno>
+            <idno type="OCLC">ocm 50290045</idno>
+            <idno type="VID">156001</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156001)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A machavillian plot, or, A caution for England, presented in a time when princes were so pious and iudges durst bee valiant to declare against vnhonest slaverie.</title>
+                  <author>Heath, Robert, Sir, 1575-1649.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Anno Dom. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Robert Heath. cf. NUC pre-1956.</note>
+                  <note>Caption, "Lunae 16. de novembris 1629. Anno 5. Caroli regis. Robert Heath. Richard Shelton. Thomas Crew. Humphrey Davenport. Richard Barkley. Heneage Finch. Sir Robert Heath knight Your Majesties attorney generall, humbly informeth Your most excellent Majestie ..."</note>
+                  <note>Concerning the fortification of cities and towns, and the increase of the King's revenue.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156001:1" rendition="simple:additions"/>
+            <p>A MACHAVILLIAN PLOT, OR, A Caution for ENGLAND, PRESENTED In a time when Princes were ſo Pious, and Iudges durſt bee Valiant to declare againſt Vnhoneſt Slaverie.</p>
+            <p>LONDON, Printed <hi>Anno Dom.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156001:2"/>
+            <pb n="1" facs="tcp:156001:2"/>
+            <opener>
+               <dateline>
+                  <date>Lunae 16 Die Novembris 1629. Anno 5. Caroli Regis.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Robert Heath.</item>
+                     <item>Richard Shelton.</item>
+                     <item>Thomas Crew.</item>
+                     <item>Humphrey Davenport.</item>
+                     <item>Richard Barkley.</item>
+                     <item>Heneage Finch.</item>
+                  </list>
+               </signed>
+               <salute>Sir <hi>Robert Heath</hi>Knight your Majeſties Attorney Generall, hum<g ref="char:EOLhyphen"/>bly informeth your most excellent Majeſtie,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas your Sacred Majeſtie, ever ſince your happy Acceſſe to the Imperiall Crowne of this Realme, hath governed your People with ſo much Juſtice and moderation that all your good Subjects doe beare that Reverence and love unto your Sacred Perſon, as is juſtly doe to ſo gracious a Soveraigne; And your Majeſty next to the Service of Almighty-God, and the main<g ref="char:EOLhyphen"/>tenance of his true Religion, hath preſerved and maintained the antient and a Fundamentall Lawes of this Kingdome without Innovation.</p>
+            <p>Yet ſo it is, may it pleaſe your moſt Excellent Majeſty, that ſome malitious Perſons (who are as yet unknowne to your ſaid Attorney) being ill-affected to your Majeſtie, and to your hap<g ref="char:EOLhyphen"/>py Government, and intending to raiſe falſe, ſcandalous, and ſe<g ref="char:EOLhyphen"/>ditious Rumours againſt your Majeſtie, and your gracious Go<g ref="char:EOLhyphen"/>venment, have of late wickedly and ſeditiouſly framed; contri<g ref="char:EOLhyphen"/>ved and written a falſe, ſeditious, and peſtilent Diſcourſe in theſe words following;</p>
+            <q>
+               <pb n="2" facs="tcp:156001:3"/>
+               <p>The Propoſitions for your Majeſties ſervice containeth two parts; The one to ſecure your ſtate, and to bridle the Pertinacy of Parlia<g ref="char:EOLhyphen"/>ments.</p>
+               <p>The other to encreaſe your Revennue much more then it is.</p>
+            </q>
+            <p>Touching the firſt, having conſidered divers, meanes, I find none ſo important to ſtrengthen your Majeſties Regall Authori<g ref="char:EOLhyphen"/>tie againſt all oppoſitions or practiſes of troubleſome ſpirits, and to bridle them, then to Fortifie your Kingdome by having a For<g ref="char:EOLhyphen"/>treſſe in every chiefe Towne and important place thereof, furni<g ref="char:EOLhyphen"/>ſhed with Ordnance, Munition, and faithfull men as they ought to be, with all other circumſtances fit to be digeſted in a buſineſſe of this nature, ordering withall the Trayned Bands of the County to be united in one Dependancie with the ſaid Forts, as well to ſecure their beginning as to ſuccour them in occaſion of ſuſpect, and alſo to retaine and keepe their Armes for more ſecu<g ref="char:EOLhyphen"/>rity, where by the Countries are no leſſe to be brought into ſub<g ref="char:EOLhyphen"/>jection then the Cities themſelves, and conſequently the whole Kingdome: Your Majeſtie having by this courſe the power thereof in your owne hands.</p>
+            <p>
+               <hi>The reaſons of theſe ſuggeſts are theſe.</hi>
+               <list>
+                  <item>1. That in Policy it is a greater Tye of the People by force and neceſſitie, then meerely by Law and Affection; For by the one, the Government reſteth alwayes ſure, but by the other no longer then the People are well contented.</item>
+                  <item>2. It forceth obſtinate Subjects to be no more preſumptuous then it pleaſeth your Majeſtie to permit them.</item>
+                  <item>3. That to leave: a State unfurniſhed, is to give the bridle thereof to the Subject, when by the contrary it reſteth onely in the Princes hands.</item>
+                  <item>4. That moderne fortreſſes take long time in winning with ſuch Charge and Difficulty, as no Subjects in theſe times have meanes probable to attempt them.</item>
+                  <item>5. That it is a ſure remedy againſt rebellious and popular
+<pb n="3" facs="tcp:156001:3"/>Mutinies, or againſt Forraigne powers, becauſe they cannot well ſucceed, when by this Courſe, the Apparent meanes is taken a<g ref="char:EOLhyphen"/>way to force the King and State upon a doubtfull fortune of a ſet Battell, as was the cauſe that moved the pretended Invaſion againſt the Land attempted by the King of <hi>Spaine</hi> in the yeare, 1588.</item>
+                  <item>6. That your Majeſties Government is the more ſecure by the Peoples more ſubjection, and by their ſubjection the Gentrie or Parliaments muſt be forced to alter their ſtyle, and to be confor<g ref="char:EOLhyphen"/>mable to your will and pleaſure; for their words and oppoſition importeth nothing where the Power is in your Majeſties owne hands, to doe with them what you pleaſe, being indeed the chiefe purpoſe of this Diſcourſe, and the ſecret intent thereof, fit to bee concealed from any Engliſh at all either Counſellour of State, or other; For theſe and divers other waighty Reaſons.</item>
+               </list>
+            </p>
+            <p>It may be conſidered in this place to make your Majeſty more powerfull and ſtrong ſome Orders to be obſerved, that are uſed in Fortified Countries. The government whereof imports as much as the States themſelves. I m<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ne in times of doubt or ſu<g ref="char:EOLhyphen"/>ſpect, Which are theſe;
+<list>
+                  <item>1. <hi>Inprimis,</hi> That none weare Armes or weapons at all either in City or Countrey, but ſuch as your Majeſtie may thinke fit to priviledge, and they to be enrolled.</item>
+                  <item>2. That as many High-wayes as conveniently may be done, be made paſſable through thoſe Cities and Townes fortified to conſtraine the paſſengers to Travell through them.</item>
+                  <item>3. That the Souldiers of Fortreſſes are ſometimes choſen out of another Nation (if ſubjects to the ſame Prince) but howſoe<g ref="char:EOLhyphen"/>ver not to be borne in the ſame Province, or within 40. or 50. miles of the Fortreſſes, and not to have friends or correſpondency neere it.</item>
+                  <item>5. That at the Gates of each walled Town be appointed Of<g ref="char:EOLhyphen"/>ficers, not to ſuffer any unknowne Paſſenger to paſſe without a Ticket ſhewing from whence he came, and whither to goe, and
+<pb n="4" facs="tcp:156001:4"/>that the Gates of each City be ſhut all night, and the Keyes kept by the Major or Governour; Alſo the Inne-keepers to deliver the names of all unknowne Paſſengers that lodge in their Houſes and if they ſtay ſuſpitiouſly at any time to preſent them to the Governours, whereby dangerous perſons, ſeeing theſe ſtrict courſes will be more warie of their Actions, and thereby miſ<g ref="char:EOLhyphen"/>chievous attempts will be prevented.</item>
+               </list>
+            </p>
+            <p>All which being referred to your Majeſties wiſe conſideration. It is meete for me withall, to give you ſome ſatisfaction of the charge and time to performe what is propoſed, that you may not de diſcouraged in the difficulty of the one, or the prolongation of the other; Both which doubts are reſolved in one, and the ſame Reaſon, in reſpect that in <hi>England.</hi> each chiefe Towne commonly hath a ruinated Caſtle well ſeated for ſtrength whoſe Foundation and Stones remaining may be both quickly repaired for this uſe, and with little charge, and made ſtrong enough; I hope for this purpoſe within the ſpace of one yeare, by adding withall Bulwarkes and Rampiers for the Ordnance, according to the Rules of Fortification: The Ordnance for theſe Forts may be of Iron, not to diſ-furniſh your Majeſties Navy, or to be at a greater charge then is needfull; To maintaine yearely theſe Forts, I make account in ordinary pay 3000 men will be ſuffi<g ref="char:EOLhyphen"/>cient, and will require 40000 pounds charge <hi>per annum,</hi> or there<g ref="char:EOLhyphen"/>abouts being an expence that inferiour Princes doe unde goe for their neceſſary ſafetie. All which pretention added to the invin<g ref="char:EOLhyphen"/>cible Seas-force your Majeſtie hath already and may have, will make you the moſt powerfull and obeyed King of the world, which I could likewiſe confirme by many examples, but I omit them for brevitie; and not to confuſe your Majeſty with too much matter your Majeſty may find by the ſcope of this diſcourſe the meanes ſhewed in generall to brydle your Subjects, that may be either diſcontent or obſtinate; So am I likewiſe to conclude the ſame intent particularly againſt the perverſneſſe of your Parliaments as well to ſuppreſſe that pernitious humour, as
+<pb n="5" facs="tcp:156001:4"/>to avoyd their oppoſitions againſt your profit, being the ſecond part to be diſcourſed on; And therefore have firſt thought fit for better prevention thereof, to make knowne to your Majeſty the purport of a generall oath your ſubjects may take for ſure avoyd<g ref="char:EOLhyphen"/>ing of all rubbes that may hinder the concluſion of theſe buſineſ<g ref="char:EOLhyphen"/>ſes; It is further meane, that no Subject upon paine of high Treaſon may refuſe the ſame Oath, containing onely matter of Allegiance, and not ſcruples of points of conſcience, that may give pretence to be denyed.</p>
+            <p>
+               <hi>The effect of the Oath is this.</hi>
+               <lb/> THat all your Majeſties Subjects doe acknowledge you to be as abſolute a King, and Monarch within your Dominions, as is amongſt the Chriſtian Princes, and your Prerogative as great, whereby you may and ſhall for your ſelfe, by your Maje<g ref="char:EOLhyphen"/>ſties Proclamation as well as other Soveraigne Princes doing the like either make Lawes or reverſe any made, with any other Act, ſo great a Monarch as your ſelfe may doe, and that with<g ref="char:EOLhyphen"/>out further conſent of a Parliament, or need to call them at all in ſuch caſes, confirming that the Parliament in all matter (ex<g ref="char:EOLhyphen"/>cepting Caſes to be ſentenced as the higheſt Court) ought to ſub<g ref="char:EOLhyphen"/>mit to your Majeſties will to give the Negative or Affirmative concluſion, and not to be conſtrained by their Impertinencies to any Inconvenience appertaining to your Majeſties Regall Au<g ref="char:EOLhyphen"/>thoritie; And this notwithſtanding any bad pretence or Cu<g ref="char:EOLhyphen"/>ſtome to the contrary in practiſe, which indeed were fitter to bee offered to a Prince Elected without other right then to your Ma<g ref="char:EOLhyphen"/>jeſty, borne ſucceſſively King of <hi>England; Scotland, France,</hi> and <hi>Ireland</hi> and your Heirs for ever and ſo reſumed not onely of your Subjects, but alſo of the whole world; How neceſſary the dan<g ref="char:EOLhyphen"/>gerous Supremacie of Parliaments uſurpation is to bee preven<g ref="char:EOLhyphen"/>ted. The Example of <hi>Lewis</hi> the Eleventh King of <hi>France</hi> doth
+<pb n="6" facs="tcp:156001:5"/>manifeſt, who found the lik oppoſition, as your Majeſty doth, and by his wiſedome ſuppreſſed it, and that to the purpoſe here intended, which is not to put downe altogether Parliaments and their Authoritie, being in many caſes very neceſſarie and fit, but to abridge them as farre as they ſeeke to derogate from your Majeſties Regall Authoritie, or advancement of your Great<g ref="char:EOLhyphen"/>neſſe; The Caution in offering the aforeſaid Oath may re<g ref="char:EOLhyphen"/>quire ſome policie for the eaſier paſſage at firſt, either by ſingu<g ref="char:EOLhyphen"/>lar or particular Tractation and that ſo neere about one time over the Land, as one government may not know what the other intendeth, ſo it may paſſe the eaſier, by having no time of Com<g ref="char:EOLhyphen"/>bination or Oppoſition; There is another courſe alſo more cer<g ref="char:EOLhyphen"/>taine then this to bring to paſſe this Oath eaſily, as alſo your profit, and what elſe is pretended, which here I omit for brevity, requiring a long diſcourſe by it ſelfe and have ſet it downe in particular Inſtructions to informe your Majeſtie.</p>
+            <p>The ſecond part of this Diſcourſe is touching your Majeſties Profit after your ſtate is ſecured, wherein I ſhall obſerve both ſome reaſonable content to the people, as alſo conſider the great expenſes that Princes have now a dayes more then in times paſt to mayntaine their owne greatneſſe and ſafety of their Subjects, who if they have not wit and will to conſider their owne Intereſt ſo much indifferently, your Majeſtie muſt repaire their defects, and force them to it by Compulſion; but I hope there ſhall be no ſuch cauſe in points ſo reaſonable to increaſe your Majeſties Revenues; Wherein I ſet downe divers meanes for your gracious Selfe to make choyce of, either All or Part at your pleaſure, and to put it in execution by ſuch degrees, and Cautions, as your great wiſedome ſhall thinke fit, in a buſi<g ref="char:EOLhyphen"/>neſſe of this nature.</p>
+            <pb n="7" facs="tcp:156001:5"/>
+            <p>
+               <hi>Imprimis,</hi> The firſt meanes and courſe intended to increaſe your Majeſties revenues or profit withall is of greateſt conſequence, and I call it a <hi>Decima,</hi> being ſo termed in <hi>Italy,</hi> where in ſome parts it is in uſe, importing the tenth part of all Subjects eſtates to be paid as a yearely Rent to the Prince; and as well monied men in Townes, as landed in the Countries, their values and Eſtates eſteemed juſtly as it is to the true value, (yet with reaſon) to pay it, and this is paied yeerly in money: Which courſe applyed in <hi>England</hi> for your Ma<g ref="char:EOLhyphen"/>jeſties ſervice, may ſerve in ſtead of Subſidies, Fifteenes, and ſuch like, which in this caſe are fit to be releaſed, for the Subjects benefit and content, in recompence of the ſaid <hi>Decima:</hi> which will yeeld your Majeſty more in certainty then they doe caſually by 500000. pound <hi>per annum</hi> at the leaſt.</p>
+            <p n="2">2. That when your Majeſty hath gotten money into your hands by ſome courſes to be ſet downe, it would be a profitable courſe to encreaſe your <hi>Entrato,</hi> to buy out all Eſtates and Leaſes upon your owne Lands, in ſuch ſort as they be made no loſers; whereby ha<g ref="char:EOLhyphen"/>ving your lands free, and renting them out to the true value as it is moſt in uſe, and not imployed as heretofore, at an old Rent and ſmall Fines, you may then rent it out for at leaſt foure or five times more money then the old Rents comes unto: So as if your Maje<g ref="char:EOLhyphen"/>ſties Lands be already but 60000. pounds <hi>per annum,</hi> by this means it will be augmented at leaſt 200000. pounds <hi>per annum:</hi> and to buy out the Tenants eſtates wil come to a ſmall matter, by the courſe to make them no loſers, conſidering the gaine they have al<g ref="char:EOLhyphen"/>ready made upon the Land. And this is the rather to be done, and the preſent courſe changed, becauſe it hath been a cuſtome uſed meer<g ref="char:EOLhyphen"/>ly to cozen the King.</p>
+            <p n="3">3. <hi>Item,</hi> Whereas moſt Princes do receive the benefit of Salt, in their owne hands, as a matter of great profit, becauſe they receive it at the loweſt price poſſible, and vent it, doth gain double yearly: The ſame courſe uſed by your Majeſty were worth at leaſt 150000 pounds <hi>per annum.</hi>
+            </p>
+            <p n="4">4. It is likewiſe in other parts, that all Weights and Meaſures, either in private Houſes, Shops, or publike Markets ſhoul'd be view<g ref="char:EOLhyphen"/>ed to be juſt, and ſealed once a yeere, paying to the Prince for it:
+<pb n="8" facs="tcp:156001:6"/>which in <hi>England</hi> applyed to your Majeſty, with order to pay ſixe pence for ſealing each weight or meaſure would yeeld neare 60000 pounds <hi>per annum.</hi>
+            </p>
+            <p n="5">5. <hi>Item,</hi> Though all Countries pay a <hi>Gabella</hi> for tranſportation, and ſo likewiſe in <hi>England,</hi> yet in <hi>Spaine</hi> there is impoſt upon the Woolls; which in <hi>England</hi> is ſo great a wealth and benefit to the Sheep maſters, as they may well pay you five pound <hi>per cent.</hi> of the true value at the ſheering, which I conceive may be worth 140000. pound <hi>per annum.</hi>
+            </p>
+            <p n="6">6. Whereas the Lawyers fees and gaines in <hi>England</hi> are exceſſive, to your Subjects prejudice, it were better for your Majeſty to make uſe thereof, and impoſe on all cauſes ſentenced with the party to pay five pound <hi>per cent.</hi> of the true value that the cauſe hath gained him; and for recompence thereof, to limit all Lawyer. Fees and Gettings, whereby the Subjects ſhall ſave more in Fees and Char<g ref="char:EOLhyphen"/>ges, than they give your Majeſty in the <hi>Gabella:</hi> which I beleeve may be worth one yeare with another 50000. pound.</p>
+            <p n="7">7. Whereas the innes and Victualling-Houſes are more char<g ref="char:EOLhyphen"/>gable to the Travellers then in other Countries, it were good for your Majeſty to limit them to certain Ordinaries, and raiſe beſides a large Impoſition; as is uſed in <hi>Tuſcany</hi> and other parts: That is, a prohibiting of all Innes and Victualing-Houſes, but ſuch as ſhall pay it; and to impoſe upon the chiefe Innes and Taverns ten pound a yeere to your Majeſty, the worſt five pound <hi>per annum,</hi> and all the Ale-houſes 20 ſhillings <hi>per annum,</hi> more or leſſe as they be in cu<g ref="char:EOLhyphen"/>ſtome, of all ſorts, there are ſo many in <hi>England,</hi> that this Impoſt may well yeeld 100000. pound <hi>per annum</hi> to your Majeſty.</p>
+            <p n="8">8. <hi>Item,</hi> In <hi>Tuſcany</hi> and other parts there is a <hi>Gabella</hi> of all Cat<g ref="char:EOLhyphen"/>tell, or Fleſh and Horſes ſold in Markers, paying 3. or 4. <hi>per Cent.</hi> of what they are ſold for; which by conjecture, may be worth in <hi>England</hi> 200000 pound <hi>per annum,</hi> uſing the like Cuſtome upon Fiſh, and other Victuall (Bread excepted;) and for this cauſe all Fleſh and Fiſh and Victuals in the Market to be priſed, and ſold by waight, whereby the Subject ſayeth more in not being cozened, then the impoſition importeth them.</p>
+            <p n="9">9. <hi>Item,</hi> In <hi>Tuſcany</hi> is uſed a Taxation of 7. <hi>per Cent.</hi> upon all
+<pb n="9" facs="tcp:156001:6"/>Alienation of Lands to the true value; and alſo 7 <hi>per Cent</hi> upon all Dowries and Marriage-monies; the like if it were uſed in <hi>England</hi> were worth at leaſt 100000. pound <hi>per annum;</hi> with many other Taxations upon Meale, and other Merchandizes, in all Townes as well as Port Townes, which here I omit, with divers others, as not ſo fit for <hi>England.</hi> And in ſatisfaction of the Subject for theſe Taxes, your Majeſty may be pleaſed to releaſe them of Ward-ſhips, and to enjoy all their eſtates at eighteen yeers old, and in the meane time their profits to be preſerved for their owne benefit. And alſo in for<g ref="char:EOLhyphen"/>feitures of Eſtates by condemnation, your Majeſty may releaſe the Subject; as not to take the forfeitures of their Lands, but their Goods, High-Treaſon onely excepted; and to allow the counſell of Lawyers in caſe of life and death; as alſo not to be condemned without two witneſſes; with ſuch like benefits, which import much more their good, then all the Taxations named can prejudice them.</p>
+            <p n="10">10. <hi>Item,</hi> That ſome of the former Taxations uſed in <hi>Ireland</hi> and <hi>Scotland,</hi> as may eaſily be brought about by the firſt example there<g ref="char:EOLhyphen"/>of uſed in <hi>England,</hi> may very well be made to encreaſe your revenue there more than it is now by 200000. pound <hi>per annum.</hi>
+            </p>
+            <p n="11">11. <hi>Item,</hi> All Offices in the Land, great and ſmall, in your Ma<g ref="char:EOLhyphen"/>jeſties grant, may be granted with condition, to pay your Majeſty a part yeerly, according to the value; this in time may be worth (as I conceive) 100000. pound <hi>per annum;</hi> adding alſo Notaries, Atturnies, and ſuch like, to pay ſome proportions yearly towards it, for being allowed by your Majeſty to practiſe, and prohibiting elſe any to practiſe in ſuch places.</p>
+            <p n="12">12. <hi>Item,</hi> to reduce your Majeſties houſhold to bord-wages, as moſt other places do, reſerving ſome few Tables: this will ſave your Majeſtie 60000 <abbr>l</abbr> 
+               <hi>per annum,</hi> and eaſe greatly the Subject beſides, both in carriages and Proviſion, which is good reaſon that your Majeſty in honour might doe it.</p>
+            <p n="13">13. <hi>Item,</hi> I know an aſſured courſe in your Majeſties Navie, which may ſave at leaſt 50000 <abbr>l</abbr> 
+               <hi>per annum,</hi> which requiring a whole diſcourſe by it ſelfe, I omit; onely doe promiſe to doe it when<g ref="char:EOLhyphen"/>ſoever you command.</p>
+            <p n="14">14. <hi>Item,</hi> whereas you Majeſties Lawes doe command the ſtrict
+<pb n="10" facs="tcp:156001:7"/>keeping of Faſting dayes, you may alſo prohibite thoſe dayes to eat Egges, Cheeſe, or white-meates, only to ſuch as are contented to pay eighteen pence a yeere for the liberty to eat them, and the bet<g ref="char:EOLhyphen"/>ter ſort tenne ſhillings; the employment of this may be for the de<g ref="char:EOLhyphen"/>fence of the Land, in maintaining of the Navie, Garriſons, and ſuch like, much after the faſhion of the <hi>Cruſado</hi> in <hi>Spaine,</hi> as your Majeſty knoweth being firſt begun there under the pretence to de<g ref="char:EOLhyphen"/>fend the Land againſt the <hi>Moores,</hi> and the ſame uſed in <hi>England,</hi> may very well yeeld one yeere with another 100000 <abbr>l</abbr> without any diſguſt to any, becauſe it is at every ones choice to give it or no.</p>
+            <p n="15">15. Laſtly, I have a courſe upon the Catholikes, and very ſafe for your Majeſty, being with their good liking, as it may bee wrought, to yeeld you preſently at leaſt 200000 <abbr>l</abbr> 
+               <hi>per annum,</hi> by raiſing a certaine value upon their lands, and ſome other Impoſiti<g ref="char:EOLhyphen"/>ons, which requiring a long diſcourſe by it ſelfe, I will omit here ſetting it downe in my Inſtructions.</p>
+            <p>It will ſave your Majeſty 100000 <abbr>l</abbr> 
+               <hi>per annum,</hi> to make it paine of death, and confiſcation of Goods and Lands, for any of the Officers to cozen you, which now is much to be feared they do, elſe they could not be ſo rich; and herein to allow a fourth part of the benefit to him that ſhall finde out the cozenage; here is not meant Officers of State, as the Lord Treaſurer, &amp;c. being Officers of the Crowne.</p>
+            <p>The ſumme of all this Accompt amounteth to 2200000 <abbr>l</abbr> 
+               <hi>per annum,</hi> ſuppoſe it be but one Million and a halfe, as aſſuredly your Majeſty may make by theſe courſes ſet down, yet it is much more than I promiſed in my letter for your Majeſties ſervice, beſides ſome ſummes of money in the preſent by the courſes following:</p>
+            <p>
+               <hi>Imprimis,</hi> By the Prince his Marriage, to make all the Earles in <hi>England Grandes,</hi> (as in <hi>Spain</hi>) and <hi>Principi,</hi> with ſuch like Privi<g ref="char:EOLhyphen"/>ledges, and to pay 20000. pound a piece for it.</p>
+            <p n="2">2. As alſo if you make them Feodataries of the Towns belonging to their Earldomes if they will pay for it beſides as they do to the King of <hi>Spaine</hi> in the Kingdom of <hi>Naples.</hi>
+            </p>
+            <p n="3">3. And ſo likewiſe Barons to bee made Earles and Peeres to pay tenne thouſand pound a piece, I thinke this might
+<pb n="11" facs="tcp:156001:7"/>yeeld 500000 <abbr>l</abbr>, and oblige them ſure to your Majeſty.</p>
+            <p n="4">4. To make choice of 200 of the richeſt men of <hi>England</hi> of eſtate, that be not Noblemen, and make them <hi>Titulati,</hi> as is uſed in <hi>Naples;</hi> And paying for it, that is, a Duke 30000 <abbr>l</abbr>, a Marqueſſe 15000 <abbr>l</abbr>, an Earle 10000 <abbr>l</abbr>, a Baron or Viſcount 5000 <abbr>l</abbr>. It is to be underſtood, That the ancient Nobility of Barons made Earles are to precede theſe as Peeres, though theſe be made Marqueſſes or Dukes: This may raiſe a million of pounds, or more unto your Majeſty. To make Gentlemen of low quality, and Francklins, and Farmours, Eſquires to precede them, would alſo yeeld your Majeſty a great ſumme of money in preſent. I have another courſe to yeeld your Majeſty at leaſt 300000 <abbr>l</abbr> in money, which as yet the time ſerveth not to diſcover, untill your Majeſty be reſolved to proceed in ſome of the former courſes, which till then I omit. Other courſes alſo that may make preſent money, I ſhall ſtudy for your Majeſties ſer<g ref="char:EOLhyphen"/>vice, and as I finde them out, acquaint you withall.</p>
+            <p>Laſtly, To conclude all this diſcourſe, by the application of this courſe uſed for your profit, It is not only to make you the richeſt King that ever <hi>England</hi> had, but alſo the ſafety augmented thereby to be moſt ſecure; beſides what is ſhewed in the firſt part of this diſcourſe, I meane by the occaſion of theſe Taxations and raiſing of moneys, your Majeſty ſhall have cauſe and meanes to employ in all places of the Land, ſo many Offices and Miniſters, to bee oblieged to you for their own good and Intereſt, as nothing can bee attempted againſt your Perſon or Royall Eſtate over Land, but ſome of theſe ſhall in all probability have meanes to finde it out and hinder it: Beſides, this courſe will repreſſe many diſorders and abuſes in the publike Government, which were hard to be diſco<g ref="char:EOLhyphen"/>vered by men indifferent. To prohibite gorgious and coſtly Apparrell to be worne, but by Perſons of good quality, ſhall ſave the Gentry of the Kingdome much more money than they ſhall be Taxed to pay to your Majeſty.</p>
+            <p>Thus with all humility I take my leave, and kiſſe your gracious hand, deſiring Pardon for my Error I may commit herein.</p>
+            <p>The which falſe, ſeditious, and malitious Diſcourſe and writing, ſo framed, contrived and written, as aforeſaid, the Authors thereof
+<pb n="12" facs="tcp:156001:8"/>intended ſhould be divulged and diſperſed, as if the ſame had been entertained by your Majeſty, with purpoſe to be put in execution, thereby to raiſe feares and jealouſies in the mindes of your good Subjects, that your ſacred Majeſty had a purpoſe to alter and inno<g ref="char:EOLhyphen"/>vate the ancient Lawes of this Kingdome, and the ancient manner and Forme of the Gov<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rnment thereof, and to draw all things to be diſpoſed of at your Majeſties abſolute will and pleaſure, and to command and diſpoſe of eſtates, goods, and revenews of your Sub<g ref="char:EOLhyphen"/>jects, or ſuch part or Portion thereof as your ſelfe pleaſed without the conſent of your Subjects, and to make and repeale Lawes and Statutes, by your Majeſties Proclamations only, without con<g ref="char:EOLhyphen"/>ſent of Parliament, and that to over-awe and oppreſſe your ſubjects you purpoſed to place and maintaine Garriſons, and Fortified Caſtles and Places in a Warre-like manner in all the Principall Cities and Towns in this your Kingdome.</p>
+            <p>Which if it ſhould bee believed by your People, could not but raiſe infinite diſcontents amongſt them, the conſequences whereof might be extreme, and almoſt of inevitable danger to your Ma<g ref="char:EOLhyphen"/>jeſties Perſon and State, and to the whole Frame of this Kingdom, and to the great diſhonour of your Majeſtie, which all and every your good and loyall Subjects are in their duty and allegeance to your Majeſty bound to prevent, to the uttermoſt of their Powers, and to diſcover to your Majeſty, or ſome of your Privie-Councell, or other Magiſtrate, all ſuch falſe and ſeditious diſcourſes and writings whenſoever they ſhall come to their hands or knowledge.</p>
+            <p>Nevertheleſſe, ſome forgetting that duty which they owe to your gracious Majeſty their liege Lord, and intending to further and cheriſh thoſe falſe, ſcandalous, and ſeditious rumors, whereby mat<g ref="char:EOLhyphen"/>ter of diſcord and ſlander might grow betweene your Majeſtie, the great men of this Kingdome and your People; and not regarding the great dangers and evill conſequences thereof, having gotten the ſaid Diſcourſe or Writing, or ſome Copie or Copies thereof into their hands, at ſeverall times within the ſpace of eight moneths now laſt paſt, did make or write, or cauſed to be made or written, ſeverall copies thereof, and amongſt them<g ref="char:EOLhyphen"/>ſelves, and alſo to and amongſt many others, have publiſhed, divul<g ref="char:EOLhyphen"/>ged,
+<pb n="13" facs="tcp:156001:8"/>and diſperſed the ſame, to the great and inſufferable ſcandall and diſhonour of your Majeſty, and of your moſt juſt and gracious Government; and none of them before ſuch publication thereof did make the ſame known to your Majeſty, or any of your Privie Councell, or any other lawfull Magiſtrate, as in duty they and every of them ought to have done.</p>
+            <p>In conſideration of all which premiſes, for as much as the ſaid ſpreading publiſhing, and divulging of all ſuch ſcandalous and ma<g ref="char:EOLhyphen"/>litious tales, newes, and rumours, and not making the ſame knowne to your Majeſty or your Privie Councell, or other Magiſtrate, is contrary to the good Lawes and Statutes of this your Realm, and contrary to the duty and Allegeance that they owe to your Maje<g ref="char:EOLhyphen"/>ſty; and for that the venome thereof may by this undue meanes be diſperſed and infuſed in and unto many others, in and through whoſe hands, thoſe falſe, ſeditious, and malitious Papers and Wri<g ref="char:EOLhyphen"/>tings have or may come: and for that the danger thereof is exceed<g ref="char:EOLhyphen"/>ing great, and may be of infinite ill conſequence, if in time the ſame be not prevented, and for example and terrour to all others be not ſeverely puniſhed:</p>
+            <p>May it thereof pleaſe your moſt excellent Majeſty to grant un<g ref="char:EOLhyphen"/>to your ſaid Atturney your Majeſties moſt gracious Writs of <hi>Sub<g ref="char:EOLhyphen"/>poena,</hi> to be directed to ſuch as have divulged it; commanding them at a certain day, and under a certain Paine therein to be contained, perſonally to be and appeare before your Majeſtie, and the right Honourable the Lords and others of your Highneſſe moſt Honou<g ref="char:EOLhyphen"/>rable Privie Councell, in your Highneſſe Court of Star-chamber, then and there to anſwere to the premiſes, and to ſtand to and abide ſuch order, direction, ſentence, and decree therein, as to your Ma<g ref="char:EOLhyphen"/>jeſty, and the ſaid Lords and others ſhall be thought moſt meet and agreeable to Juſtice.</p>
+            <closer>And your ſaid Atturney ſhall over pray, &amp;c.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
